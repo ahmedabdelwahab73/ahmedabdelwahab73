@@ -1,3 +1,5 @@
+<p align="center" width="100%"><img src='https://media.giphy.com/media/Q9Z6ASHH713qOF2Gtv/giphy.gif' align="center" width="100%"/></p>
+
 <h1 align="center">Hi 👋, I’m Ahmed Abdelwahab</h1> 
 
 <h3 align="center">
