@@ -9,9 +9,9 @@
 <h3 align="left"> contact with me on:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/khaled-elmasry-4b4689255/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
-<a href="https://www.facebook.com/khaledmohamed01/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.samir.ali.zaki" height="30" width="40" /></a>
-<a href="https://www.instagram.com/khaled009001/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_samir_21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-allam-a425a025a" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009962769167&mibextid=ZbWKwL" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.samir.ali.zaki" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmed_ibraihm/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_samir_21" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Skills & Tools</h3>
